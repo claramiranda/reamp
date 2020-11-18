@@ -1,38 +1,56 @@
 <h1 align="center">
      💻 <a href="https://www.reamp.com.br/" alt=""> Desafio Técnico - Reamp + Jellyfish </a> 🎲
 </h1>
-
-<h3>Bem-vinde</h3>
-<p>
-     A Reamp + Jellyfish é uma empresa que contribui para a Transformação Digital ao redor do mundo.
-</p>
-
-
-- coisas para listar aqui
-  1. descricao do problema e da api
-  2. ferramentas que achamos interessante que a pessoa use
-  3. criterios de avaliacao
-  4. prazo para a soluçao do problema
-  5. dicas
-  6. issues com desafios mais avaçados (tipo integração com o front e pah)
-  
-</p>
+<h2 align="center">
+     🌦️️ <a href="https://openweathermap.org/" alt="programa de previsão do tempo"> Previsão do Tempo - Open Weather Maps </a> 🌈
+</h2>
 
 <h4 align="center">
 	🚧 Em Construção 🚧
 </h4>
+
+<h3>Quem Somos</h3>
+<p>
+     A Reamp + Jellyfish é uma empresa que contribuí para a transformação digital de parceiros por todo o mundo. 
+     <br>
+     Com uma operação baseada em tecnologia + mídia + dados, criamos novos jeitos de fazer marketing utilizando tecnologias inovadoras e pessoas apaixonadas para descomplicar as operações de mídia de nossos parceiros.
+</p>
+
+<h3>O Desafio</h3>
+A ideia é simples, você deverá desenvolver uma aplicação que receba como parâmetro uma cidade e imprima qual é a previsão do tempo para a mesma. 
+
+Para isso você deve:
+- Consumir a API https://openweathermap.org/ 
+- Usar Java para desenvolver a solução.
+
+O tempo estimado para a conclusão da solução é de dois dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
+
+<b>Dica:</b> tente atingir os objetivos básicos para depois partir para a seção bônus.
+
+</p>
+
+<h3>Regras</h3>
+
+- Você pode discutir este exercícios com outras pessoas, mas não peça para ninguém escrever ou revisar seu código.
+
+- Você pode nos contatar a qualquer momento para tirar suas dúvidas ou para qualquer outra necessidade.
+
+- Você pode usar o Google para qualquer necessidade de consulta.
+- Você pode usar qualquer biblioteca que julgar necessário.
+
+- Realizar commits a cada tarefa concluída. Não faça apenas um commit no final.
+
+<h3>Dicas</h3>
+<p>Recomendamos que utilize o Maven como gerenciador de pacotes, você pode usar outra opção caso se sinta confortável mas não se esqueça de incluir instruções detalhadas para a execução no README do seu repositório.</p>
+
+<p>O uso de interface gráfica não é obrigatório, incentivamos que você exiba os dados da maneira como se sinta mais confortável. Temos alguns desafios na sessão bônus. </p>
+
+<p>
+<i>"O essencial é invisível aos olhos</i>". Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
+<br>
+</p>
+
+<h3>Bônus</h3>
   
-Nesse teste será utilizado a seguinte API: https://openweathermap.org/api, é possível criar uma conta grátis para ter acesso aos dados. 
+  Para pessoas que se sintam confortáveis com desenvolvimento web/fullstack, sugerimos a  utilização da stack React + Node.
 
-Desenvolver uma aplicação, que receba como parâmetro a cidade e imprima qual é a previsão do tempo para a mesma. 
-
-O teste deve ser desenvolvido em Java com maven.
-Após o  termino da implementação, subir o projeto em um repositório publico no GitHub e enviar o link neste formulário.
-
-
-
-<h3 align="center">
-    A previsão do tempo, na cidade que você quiser!
-</h3>
-  
- <sub><b>Clara Miranda</b></sub></a> <a href="https://www.linkedin.com/in/cannamiranda/" title="Entusiasta">🚀</a>
