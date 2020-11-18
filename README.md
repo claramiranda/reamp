@@ -2,7 +2,7 @@
      💻 <a href="https://www.reamp.com.br/" alt=""> Desafio Técnico - Reamp + Jellyfish </a> 🎲
 </h1>
 
-<h3>Bem-vindo</h3>
+<h3>Bem-vinde</h3>
 <p>
      A Reamp + Jellyfish é uma empresa que contribui para a Transformação Digital ao redor do mundo.
 </p>
