@@ -22,11 +22,11 @@ A ideia é simples, você deverá desenvolver uma aplicação que receba como pa
 Para isso você deve:
 - Consumir a API https://openweathermap.org/ 
 - Usar Java para desenvolver a solução.
+- Utilize o Maven como gerenciador de pacotes
 
 O tempo estimado para a conclusão da solução é de dois dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
 
 <b>Dica:</b> tente atingir os objetivos básicos para depois partir para a seção bônus.
-
 </p>
 
 <h3>Regras</h3>
@@ -37,13 +37,9 @@ O tempo estimado para a conclusão da solução é de dois dias, a partir do for
 - Realizar commits a cada tarefa concluída. Não faça apenas um commit no final.
 
 <h3>Dicas</h3>
-<p>Recomendamos que utilize o Maven como gerenciador de pacotes, você pode usar outra opção caso prefira, mas não se esqueça de incluir instruções detalhadas para build e execução no README do seu projeto.</p>
+<p>Recomendamos que , você pode usar outra opção caso prefira, mas não se esqueça de incluir instruções detalhadas para build e execução no README do seu projeto.</p>
 <p>O uso de interface gráfica não é obrigatório, incentivamos que você exiba os dados da maneira como se sinta mais confortável. Temos alguns desafios na sessão bônus. </p>
 <p>
-<i>"O essencial é invisível aos olhos</i>". Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
-<br>
+Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
 </p>
-
-<h3>Bônus</h3>
-  <p>Para pessoas que se sintam confortáveis com desenvolvimento web/fullstack, sugerimos a  utilização da stack React + Node.</p>
 
