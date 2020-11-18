@@ -1,4 +1,3 @@
-# teste-Reamp
 <h1 align="center">
      💻 <a href="https://www.reamp.com.br/" alt=""> Desafio Técnico - Reamp + Jellyfish </a> 🎲
 </h1>
@@ -22,7 +21,7 @@
 </p>
 
 <h4 align="center">
-	🚧 Em Andamento 🚧
+	🚧 Em Construção 🚧
 </h4>
   
 Nesse teste será utilizado a seguinte API: https://openweathermap.org/api, é possível criar uma conta grátis para ter acesso aos dados. 
