@@ -5,10 +5,6 @@
      🌦️️ <a href="https://openweathermap.org/" alt="programa de previsão do tempo"> Previsão do Tempo - Open Weather Maps </a> 🌈
 </h2>
 
-<h4 align="center">
-	🚧 Em Construção 🚧
-</h4>
-
 <h3>Quem Somos</h3>
 <p>
      A Reamp + Jellyfish é uma empresa que contribuí para a transformação digital de parceiros por todo o mundo. 
