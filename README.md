@@ -23,7 +23,7 @@ Para isso você deve:
 - Consumir a API https://openweathermap.org/ 
 - Usar Java para desenvolver a solução.
 - Utilizar o Maven como gerenciador de pacotes.
-- Crie um repositório privado na sua conta do github e adicionar os membros da REAMP como colaboradores `claramiranda`,`velvetlobster` e `rafastojan`.
+
 
 O tempo estimado para a conclusão da solução é de dois dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
 
