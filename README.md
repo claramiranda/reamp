@@ -32,25 +32,19 @@ O tempo estimado para a conclusão da solução é de dois dias, a partir do for
 <h3>Regras</h3>
 
 - Você pode discutir este exercícios com outras pessoas, mas não peça para ninguém escrever ou revisar seu código.
-
 - Você pode nos contatar a qualquer momento para tirar suas dúvidas ou para qualquer outra necessidade.
-
 - Você pode usar o Google para qualquer necessidade de consulta.
 - Você pode usar qualquer biblioteca que julgar necessário.
-
 - Realizar commits a cada tarefa concluída. Não faça apenas um commit no final.
 
 <h3>Dicas</h3>
 <p>Recomendamos que utilize o Maven como gerenciador de pacotes, você pode usar outra opção caso se sinta confortável mas não se esqueça de incluir instruções detalhadas para a execução no README do seu repositório.</p>
-
 <p>O uso de interface gráfica não é obrigatório, incentivamos que você exiba os dados da maneira como se sinta mais confortável. Temos alguns desafios na sessão bônus. </p>
-
 <p>
 <i>"O essencial é invisível aos olhos</i>". Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
 <br>
 </p>
 
 <h3>Bônus</h3>
-  
-  Para pessoas que se sintam confortáveis com desenvolvimento web/fullstack, sugerimos a  utilização da stack React + Node.
+  <p>Para pessoas que se sintam confortáveis com desenvolvimento web/fullstack, sugerimos a  utilização da stack React + Node.</p>
 
