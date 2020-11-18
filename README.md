@@ -27,6 +27,7 @@ O tempo estimado para a conclusão da solução é de dois dias, a partir do for
 </p>
 
 <h3>Regras</h3>
+
 - Você pode discutir este exercícios com outras pessoas, mas não peça para ninguém escrever ou revisar seu código.
 
 - Você pode nos contatar a qualquer momento para tirar suas dúvidas ou para qualquer outra necessidade.
