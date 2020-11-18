@@ -38,7 +38,7 @@ O tempo estimado para a conclusão da solução é de dois dias, a partir do for
 - Realizar commits a cada tarefa concluída. Não faça apenas um commit no final.
 
 <h3>Dicas</h3>
-<p>Recomendamos que utilize o Maven como gerenciador de pacotes, você pode usar outra opção caso se sinta confortável mas não se esqueça de incluir instruções detalhadas para a execução no README do seu repositório.</p>
+<p>Recomendamos que utilize o Maven como gerenciador de pacotes, você pode usar outra opção caso prefira, mas não se esqueça de incluir instruções detalhadas para build e execução no README do seu projeto.</p>
 <p>O uso de interface gráfica não é obrigatório, incentivamos que você exiba os dados da maneira como se sinta mais confortável. Temos alguns desafios na sessão bônus. </p>
 <p>
 <i>"O essencial é invisível aos olhos</i>". Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
