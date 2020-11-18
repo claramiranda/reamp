@@ -22,7 +22,8 @@ A ideia é simples, você deverá desenvolver uma aplicação que receba como pa
 Para isso você deve:
 - Consumir a API https://openweathermap.org/ 
 - Usar Java para desenvolver a solução.
-- Utilize o Maven como gerenciador de pacotes
+- Utilizar o Maven como gerenciador de pacotes.
+- Crie um repositório privado na sua conta do github e adicionar os membros da REAMP como colaboradores `claramiranda`,`velvetlobster` e `rafastojan`.
 
 O tempo estimado para a conclusão da solução é de dois dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
 
@@ -31,13 +32,16 @@ O tempo estimado para a conclusão da solução é de dois dias, a partir do for
 
 <h3>Regras</h3>
 - Você pode discutir este exercícios com outras pessoas, mas não peça para ninguém escrever ou revisar seu código.
+
 - Você pode nos contatar a qualquer momento para tirar suas dúvidas ou para qualquer outra necessidade.
+
 - Você pode usar o Google para qualquer necessidade de consulta.
+
 - Você pode usar qualquer biblioteca que julgar necessário.
+
 - Realizar commits a cada tarefa concluída. Não faça apenas um commit no final.
 
 <h3>Dicas</h3>
-<p>Recomendamos que , você pode usar outra opção caso prefira, mas não se esqueça de incluir instruções detalhadas para build e execução no README do seu projeto.</p>
 <p>O uso de interface gráfica não é obrigatório, incentivamos que você exiba os dados da maneira como se sinta mais confortável. Temos alguns desafios na sessão bônus. </p>
 <p>
 Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.
