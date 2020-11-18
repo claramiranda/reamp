@@ -1,5 +1,5 @@
 <h1 align="center">
-     💻 <a href="https://www.reamp.com.br/" alt=""> Desafio Técnico - Reamp + Jellyfish </a> 🎲
+     💻 <a href="https://www.reamp.com.br/" alt=""> Desafiozinho para Devs - Reamp + Jellyfish </a> 🎲
 </h1>
 <h2 align="center">
      🌦️️ <a href="https://openweathermap.org/" alt="programa de previsão do tempo"> Previsão do Tempo - Open Weather Maps </a> 🌈
