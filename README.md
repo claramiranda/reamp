@@ -22,8 +22,6 @@ Para isso você deve:
 
 
 O tempo estimado para a conclusão da solução é de dois dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
-
-<b>Dica:</b> tente atingir os objetivos básicos para depois partir para a seção bônus.
 </p>
 
 <h3>Regras</h3>
