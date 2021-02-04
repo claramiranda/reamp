@@ -15,6 +15,8 @@
      Com uma operação baseada em tecnologia + mídia + dados, criamos novos jeitos de fazer marketing utilizando tecnologias inovadoras e pessoas apaixonadas para descomplicar as operações de mídia de nossos parceiros.
 </p>
 
+<hr>
+
 <h3  align="center">O Desafio</h3>
 A ideia é simples, você deverá desenvolver uma aplicação que lê, trata e exporta dados da <a href="https://steamcommunity.com/dev">API da Steam.</a>
 
@@ -33,8 +35,10 @@ Para isso você deve desenvolver uma aplicação em Java que:
 O tempo estimado para a conclusão da solução é de três dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
 </p>
 
+<hr>
+
 <h3  align="center">Regras</h3>
-- Utilize a linguagem java pura, ou seja, sem nenhum framework (ex. Spring, Hibernet, etc...).
+- Utilize a linguagem java pura, ou seja, sem nenhum framework (ex. Spring, Hibernete, etc...).
 <br>
 - Você deve utilizar o Maven como gerenciador de pacotes.
 <br>
@@ -50,6 +54,7 @@ O tempo estimado para a conclusão da solução é de três dias, a partir do fo
 <br>
 - Você pode usar o Google/Stackoverflow para qualquer necessidade de consulta.
 
+<hr>
 
 <h3  align="center">Dicas</h3>
 <p>Resolva primeiro o desafio base antes de passar para os desafios bônus</p>
