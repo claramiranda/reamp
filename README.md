@@ -57,6 +57,8 @@ O tempo estimado para a conclusão da solução é de três dias, a partir do fo
 <h3  align="center">Dicas</h3>
 <p>Resolva primeiro o desafio base antes de passar para os desafios bônus</p>
 
+<p>Caso tenha problemas para obter o SteamId, dê uma olhada na <a href="https://wiki.teamfortress.com/wiki/WebAPI/ResolveVanityURL">ResolveVanityURL</a></p>
+
 <p>Não se esqueça de tratar os erros e excessões! Alguns usuários preferem deixar seus dados de perfil privados ou visíveis somente para amigos.</p>
 
 <p>Um bom uso dos recursos de Orientação à Objeto e um código limpo são altamente incentivados.</p>
