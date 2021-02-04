@@ -28,17 +28,15 @@ Para isso você deve desenvolver uma aplicação em Java que:
      - Username e ID do usuário na Steam
      - Nome e país do usuário
      - Última aparição online
-     - Jogos jogados recentemente
      
 
 <p>
-O tempo estimado para a conclusão da solução é de três dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana, nesse caso também aumentará o rigor com que o código será avaliado.
+O tempo estimado para a conclusão da solução é de três dias, a partir do fork, mas esse prazo pode ser estendido para até uma semana.
 </p>
 
 <hr>
 
 <h3  align="center">Regras</h3>
-- Utilize a linguagem java pura, ou seja, sem nenhum framework (ex. Spring, Hibernete, etc...).
 <br>
 - Você deve utilizar o Maven como gerenciador de pacotes.
 <br>
@@ -67,30 +65,16 @@ O tempo estimado para a conclusão da solução é de três dias, a partir do fo
 
 <p>O uso de interface gráfica não é obrigatório, você pode exibir os dados no Terminal desde que num formato legível ou em qualquer tecnologia de interface gráfica que domine, entretanto temos alguns desafios na sessão bônus. </p>
 
+<p>Caso tenha problemas para obter o SteamId, dê uma olhada na <a href="https://wiki.teamfortress.com/wiki/WebAPI/ResolveVanityURL">ResolveVanityURL</a></p>
+
 <hr>
 
 <h3  align="center">Bônus</h3>
-Sessão de desafios bônus pra quem quer ir além! A realização desses desafios é opcional e não conta
-<br><br>
-<b >Bônus - Back-End Java</b>
-<br>
-<p>
 Além dos dados de usuário, traga também os dados de:
 
+     - Jogos jogados recentemente
      - Total de jogos possuídos pelo usuário
      - Lista de todos os jogos possídos pelo usuário
      - Os 3 jogos com maior quantidade de horas jogadas 
+    
 
-
-
-<b >Bônus -Web/Fullstack</b>
-<br><br>
-<b>Front-End</B>
-
-Utilize o JSON gerado pela aplicação Java para exibir os dados numa interface web, utilizando React ou Angular
-<br><br>
-<b>Back-End</B>
-<br>
-Utilize Node para criar uma funcionalidade de login na interface web.
-
-</p>
